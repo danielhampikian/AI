@@ -81,3 +81,5 @@ Vector embedding is a technuique for turning text semantic meaning into a vector
 DataStax is our database choice, it allows for automatic vectorization with some integrations settings, but note it will not make image vector embeddings.
 
 Note that some of the versions will be different, so in general the best way to deal with this to change the versions after the initial install in the package.json file then hit hpm i again.
+
+The errors are getting to great, let's set up a simpler web app like a microservice to do this and then call it from a webpage or something
