@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@datastax/astra-db-ts": "^1.1.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.36",
+    "openai": "^4.41.0",
+    "ts-node": "^10.9.2"
+  }
+}
